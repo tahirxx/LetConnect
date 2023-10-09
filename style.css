@@ -1,0 +1,13 @@
+div {
+    /* border: 1px solid black; */
+    text-align: center;
+    
+}
+
+.background-div {
+    background-image: url('heart.webp'); /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover; /* Adjust the background size as needed */
+    width: 100%; /* Set the width of the div */
+    height: 100vh; /* Set the height of the div */
+    /* Add other CSS styles as needed */
+}
